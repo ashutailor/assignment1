@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "name": "John",
+      "email": "john123@gmail.com",
+      "gender": "Male",
+      "dob": "2004-12-17T18:30:00.000Z",
+      "address": "123, ram anagr bhiwaidi",
+      "id": 1
+    },
+    {
+      "name": "Tamsh ",
+      "email": "tasm1@gmail.com",
+      "gender": "Female",
+      "dob": "1999-07-06T18:30:00.000Z",
+      "address": "2355 plot no, ramanand jaipur",
+      "id": 2
+    },
+    {
+      "name": "ramsh ",
+      "email": "eamj233@gmil.com",
+      "gender": "Male",
+      "dob": "1999-02-06T18:30:00.000Z",
+      "address": "122 ramamnhfbdfh",
+      "id": 3
+    },
+    {
+      "name": "bharat ",
+      "email": "bh66@gmail.com",
+      "gender": "Male",
+      "dob": "2022-09-28T18:30:00.000Z",
+      "address": "222, ramanand raod jaipur",
+      "id": 4
+    },
+    {
+      "name": "basant ",
+      "email": "basant123@gmail.com",
+      "gender": "Male",
+      "dob": "2022-09-20T18:30:00.000Z",
+      "address": "aaa123@gmail.com",
+      "id": 5
+    }
+  ]
+}
